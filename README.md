@@ -7,3 +7,4 @@
 3. [SimpleMappingExample.sol](https://github.com/ChristosHadjichristofi/learn-solidity/blob/main/SimpleMappingExample.sol)
 4. [MappingStructExample.sol](https://github.com/ChristosHadjichristofi/learn-solidity/blob/main/MappingStructExample.sol)
 5. [ExceptionsExample.sol](https://github.com/ChristosHadjichristofi/learn-solidity/blob/main/ExceptionsExample.sol)
+6. [FunctionsExample.sol](https://github.com/ChristosHadjichristofi/learn-solidity/blob/main/FunctionsExample.sol)
